@@ -12,6 +12,5 @@ public class Main {
         soma = (val1 + val2);
 
         System.out.println("SOMA = " + soma);
-
     }
 }
