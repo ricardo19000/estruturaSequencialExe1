@@ -11,6 +11,7 @@ public class exercicio3 {
         C = sc.nextInt();
         D = sc.nextInt();
         DIFERENCA = A * B - C * D;
+        sc.close();
 
         System.out.println("DIFERENÇA = " + DIFERENCA);
     }
