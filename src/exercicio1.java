@@ -8,6 +8,7 @@ public class exercicio1 {
 
         val1 = sc.nextInt();
         val2 = sc.nextInt();
+        sc.close();
 
         soma = (val1 + val2);
 

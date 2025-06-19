@@ -11,6 +11,7 @@ public class exercicio2 {
         PI = 3.14159;
         Raio = sc.nextDouble();
         Area = PI * Math.pow(Raio, 2);
+        sc.close();
 
         System.out.printf("A=%.4f", Area);
     }
